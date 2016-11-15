@@ -1,0 +1,117 @@
+
+/** RESET CODE **/
+body {
+    padding: 0;
+    margin: 0;
+    background: #FFF;
+    font-family: 'Open Sans', sans-serif;
+}
+body a {
+    transition: 0.5s all;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -o-transition: 0.5s all;
+    -ms-transition: 0.5s all;
+    text-decoration: none;
+}
+body a:hover {
+    text-decoration: none;
+}
+body a:focus, a:hover {
+    text-decoration: none;
+}
+input[type="button"], input[type="submit"] {
+    transition: 0.5s all;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -o-transition: 0.5s all;
+    -ms-transition: 0.5s all;
+}
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+p {
+    margin:0;
+}
+ul {
+    margin:0;
+    padding:0;
+}
+label {
+    margin:0;
+}
+a:focus, a:hover {
+    text-decoration: none;
+    outline: none
+}
+img {
+    width: 100%;
+}
+/** RESET CODE **/
+
+/** HEADER **/
+.top-bar {
+    padding: 15px 0;
+}
+.logo {
+    width: 50%;
+    float: left;
+    text-align: left;
+    margin-top: 10px;
+}
+.header-right {
+    width: 50%;
+    float: right;
+    text-align: right;
+}
+.phone {
+    width: 60%;
+    float: left;
+    margin-top: 8px;
+}
+.phone ul li {
+    display: inline-block;
+}
+span.glyphicon.glyphicon-earphone.phone {
+    color: #7bc475;
+    font-size: 17px;
+    top: 4px;
+}
+.social-icon-top {
+    width: 40%;
+    float: left;
+}
+.social-icon-top ul li {
+    display: inline-block;
+}
+.social-icon-top ul li a {
+    width: 50px;
+    height: 50px;
+    background:url("../img/img-sprite.png") no-repeat 0 0;
+    display: inline-block;
+    border: none;
+}
+.social-icon-top ul li a.google {
+    background:url("../img/img-sprite.png") no-repeat -50px 0;
+}
+.social-icon-top ul li a.twitter {
+    background:url("../img/img-sprite.png") no-repeat -100px 0;
+}
+.social-icon-top ul li a.facebook {
+    background:url("../img/img-sprite.png") no-repeat -150px 0;
+}
+.social-icon-top ul li a.linkedin:hover {
+    background:url("../img/img-sprite2.png") no-repeat 0 0;
+}
+.social-icon-top ul li a.google:hover {
+    background:url("../img/img-sprite2.png") no-repeat -50px 0;
+}
+.social-icon-top ul li a.twitter:hover {
+    background:url("../img/img-sprite2.png") no-repeat -100px 0;
+}
+.social-icon-top ul li a.facebook:hover {
+    background:url("../img/img-sprite2.png") no-repeat -150px 0;
+}
