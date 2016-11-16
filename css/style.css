@@ -55,12 +55,18 @@ img {
 /** HEADER **/
 .top-bar {
     padding: 15px 0;
+    background-color: #d2d2d2;
 }
 .logo {
     width: 50%;
     float: left;
     text-align: left;
     margin-top: 10px;
+}
+.logo a h3 {
+    text-align: left;
+    color: #000;
+    font-size: 34px;
 }
 .header-right {
     width: 50%;
@@ -115,3 +121,39 @@ span.glyphicon.glyphicon-earphone.phone {
 .social-icon-top ul li a.facebook:hover {
     background:url("../img/img-sprite2.png") no-repeat -150px 0;
 }
+.total-navbar {
+    background-color: #032f3e;
+}
+.navbar-default {
+    background-color: #032f3e;
+    border: none;
+}
+.navbar {
+    border-radius: 0;
+    margin: 0;
+}
+.navbar-right {
+    float: none!important;
+    margin-right: 0!important;
+}
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: #fff;
+    background-color: #7bc475;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #fff;
+    padding: 23px 64px;
+    border-right: 1px solid rgba(232, 232, 232, 0.2);
+}
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: #fff;
+    background-color: #7bc475;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    color: #fff;
+    background-color: #7bc475;
+}
+.navbar-toggle {
+    border-radius: 0;
+}
+
