@@ -55,7 +55,7 @@ img {
 /** HEADER **/
 .top-bar {
     padding: 15px 0;
-    background-color: #d2d2d2;
+    background-color: #edf1e6;
 }
 .logo {
     width: 50%;
@@ -213,5 +213,151 @@ span.glyphicon.glyphicon-earphone.phone {
 }
 /** END BANNER **/
 
+/** ABOUT **/
+.about {
+    padding: 75px 0;
+    background-color: #edf1e6;
+}
+.about h3 {
+    font-size: 35px;
+    padding-bottom: 20px;
+    color: #000;
+    font-weight: 600;
+}
+.about h6 {
+    font-size: 15px;
+    color: #000;
+    font-weight: 300;
+    width: 55%;
+    margin: 0 auto;
+    line-height: 30px;
+}
+.about-grids {
+    margin-top: 75px;
+}
+.about-grids h4 {
+    color: #000;
+    font-size: 17px;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+.aboutimage {
+    border: 8px solid #7BC475;
+    border-radius: 50%;
+    padding: 0;
+}
+.about-grids p {
+    line-height: 30px;
+    color: #000;
+    font-size: 14px;
+}
+.about-grid1, .about-grid3 {
+    width: 60%;
+    text-align: right;
+}
+.about-grid1 {
+    margin-bottom: 75px;
+}
+.about-grid1 h4, .about-grid3 h4 {
+    text-align: right;
+}
+.about-grid2 {
+    width: 60%;
+    margin: 0 0 75px 455px;
+}
+.about-grid2 h4 {
+    text-align: left;
+}
+.aimg:after {
+    content: '';
+    background: #7BC475;
+    width: 3px;
+    height: 38%;
+    position: absolute;
+    bottom: -85px;
+    left: 50%;
+}
+/** // ABOUT **/
 
+/** SERVICES **/
+.services {
+    background-color: #032f43;
+    padding: 75px 0;
+    text-align: center;
+}
+.services h3 {
+    font-size: 35px;
+    color: #fff;
+    padding-bottom: 20px;
+    font-weight: 600;
+}
+.services h6 {
+    font-size: 15px;
+    color: #f3f6f3;
+    font-weight: 300;
+    width: 40%;
+    margin: 0 auto;
+    line-height: 30px;
+}
+.service-grids {
+    margin-top: 75px;
+    color: #fff;
+}
+.services h4 {
+    padding: 13px 0;
+    font-size: 20px;
+    color: #fff;
+}
+.service-grids-icon {
+    width: 30%;
+    padding: 20px;
+    border: 3px solid #7bc475;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+.services .fa {
+    font-size: 30px;
+    color: #7bc475;
+}
+.services p {
+    font-size: 14px;
+    color: #B5B5B5;
+    line-height: 30px;
+}
+.service-grid:hover div.service-grids-icon{
+    transform: rotateY(360deg);
+    -webkit-transform: rotateY(360deg);
+    -o-transform: rotateY(360deg);
+    -ms-transform: rotateY(360deg);
+    -moz-transform: rotateY(360deg);
+    transition: 0.5s all ease;
+    -webkit-transition: 0.5s all ease;
+    -moz-transition: 0.5s all ease;
+    /*--agileits--*/
+    -o-transition: 0.5s all ease;
+    -ms-transition: 0.5s all ease;
+}
+/** // SERVICES **/
+
+/** TEAM **/
+.team {
+    padding: 75px 0;
+    text-align: center;
+}
+.team h3 {
+    font-size: 35px;
+    padding-bottom: 20px;
+    color: #000;
+    font-weight: 600;
+}
+.team h6 {
+    font-size: 15px;
+    color: #000;
+}
+.theader {
+    margin-bottom: 75px;
+}
+.team img {
+    width: 70%;
+}
 
