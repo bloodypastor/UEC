@@ -428,4 +428,105 @@ span.glyphicon.glyphicon-earphone.phone {
 }
 /*--// Testimonials --*/
 
+/*--Events --*/
+.events {
+    padding: 75px 0;
+}
+.events h3 {
+    color: #000;
+    font-size: 35px;
+    padding-bottom: 20px;
+    font-weight: 600;
+}
+.events h6 {
+    font-size: 15px;
+    color: #000;
+    width: 60%;
+    margin: 0 auto;
+    line-height: 30px;
+}
+.events h4 {
+    color: #7bc475;
+    margin: 15px 0;
+    text-align: left;
+}
+.grids {
+    margin-top: 50px;
+}
+.etext img {
+    width: 60%;
+}
+.events p {
+    text-align: left;
+    font-size: 14px;
+    line-height: 30px;
+    margin-top: 10px;
+}
+.cal {
+    float: left;
+    width: 10%;
+}
+.date {
+    float: left;
+    width: 90%;
+    margin-top: 5px;
+}
+.date h5 {
+    color: #000;
+    font-size: 15px;
+    font-weight: 600;
+    text-align: left;;
+}
+/*-- // Events --*/
+/*--Map --*/
+.map iframe {
+    width: 100%;
+    height: 500px;
+    border: 5px solid #FAFAFA;
+}
+/*-- //Map--*/
 
+footer {
+    height: 450px;
+}
+.copyright p {
+    text-align: center;
+}
+.contact-grid1 h4, h6 {
+    text-align: left;
+}
+.social-icon-bottom {
+    width: 40%;
+    float: left;
+}
+.social-icon-bottom ul li {
+    display: inline-block;
+}
+.social-icon-bottom ul li a {
+    width: 50px;
+    height: 50px;
+    background:url("../img/img-sprite.png") no-repeat 0 0;
+    display: inline-block;
+    border: none;
+}
+.social-icon-bottom ul li a.google {
+    background:url("../img/img-sprite.png") no-repeat -50px 0;
+}
+.social-icon-bottom ul li a.twitter {
+    background:url("../img/img-sprite.png") no-repeat -100px 0;
+}
+.social-icon-bottom ul li a.facebook {
+    background:url("../img/img-sprite.png") no-repeat -150px 0;
+}
+.social-icon-bottom ul li a.linkedin:hover {
+    background:url("../img/img-sprite2.png") no-repeat 0 0;
+}
+.social-icon-bottom ul li a.google:hover {
+    background:url("../img/img-sprite2.png") no-repeat -50px 0;
+}
+.social-icon-bottom ul li a.twitter:hover {
+    background:url("../img/img-sprite2.png") no-repeat -100px 0;
+}
+.social-icon-bottom ul li a.facebook:hover {
+    background:url("../img/img-sprite2.png") no-repeat -150px 0;
+}
