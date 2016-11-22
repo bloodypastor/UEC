@@ -21,10 +21,10 @@
                  <a href="index.html"><h3>УЕК</h3></a>
              </div>
              <div class="header-right">
-                 <div class="phone">
+                 <div class="mail">
                     <ul>
-                        <li><span class="glyphicon glyphicon-earphone phone" aria-hidden="true"></span></li>
-                        <li>8 800 500 505</li>
+                        <li><i class="fa fa-envelope-o" aria-hidden="true"></i></li>
+                        <li>uniec2015@gmail.com</li>
                     </ul>
                  </div>
                  <div class="social-icon-top">
@@ -352,18 +352,18 @@
         </div>
     <!-- // Map -->
     <!-- Footer -->
-    <foorer>
+    <footer>
         <div class="container">
         <div class="col-md-6 col-sm-6 contact-grids contact-grid1">
             <h4>Address</h4>
             <h6>flat no:42/16, GM Chowdhury Road,Khulna.</h6>
             <h6>+880 1918 691 601</h6>
-            <h6><a href="mailto:info@example.com">mlsbd@live.com</a></h6>
+            <h6><a href="mailto:info@example.com">uniec2015@gmail.com</a></h6>
         </div>
             <div class="col-md-6 col-sm-6 copyright">
-            <p> &copy; 2016 Business Park. All Rights Reserved</p>
+            <p> &copy; 2016 Універсальна Енергетична Компанія</p>
             </div>
-        <div class="container">
+
             <div class="social-icon-bottom">
                 <ul>
                     <li><a class="linkedin" href=""></a></li>
@@ -373,19 +373,40 @@
                 </ul>
             </div>
         </div>
-        </div>
-    </foorer>
+    </footer>
 
 
 
 
+ <script src="js/move-top.js"></script>
+ <script src="js/easing.js"></script>
+ <script type="text/javascript">
+     $(document).ready(function() {
+
+          var defaults = {
+          containerID: 'toTop', // fading element id
+          containerHoverID: 'toTopHover', // fading element hover id
+          scrollSpeed: 1200,
+          easingType: 'linear'
+          };
 
 
+         $().UItoTop({ easingType: 'easeOutQuart' });
 
-
-
-
+     });
+ </script>
 <script src="js/jquery-3.1.1.min.js"></script>
 <script src="js/bootstrap.js"></script>
+
+ <script type="text/javascript">
+     jQuery(document).ready(function($) {
+         $(".scroll, .navbar li a, .footer li a").click(function(event){
+             $('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
+         });
+     });
+ </script>
+ <a href="#" id="toTop" style="display: block;">
+     <span id="toTopHover" style="opacity: 0;"></span>To Top
+ </a>
 </body>
 </html>
