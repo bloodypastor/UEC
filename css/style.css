@@ -57,6 +57,15 @@ img {
     padding: 15px 0;
     background-color: #edf1e6;
 }
+header {
+    
+    width: 100%;
+    z-index: 1;
+}
+.nav-up {
+    top: -70px;
+
+}
 .logo {
     width: 50%;
     float: left;
