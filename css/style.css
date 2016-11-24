@@ -226,7 +226,7 @@ span.glyphicon.glyphicon-earphone.phone {
 
 /** ABOUT **/
 .about {
-    padding: 75px 0;
+    padding:160px 0;
     background-color: #edf1e6;
 }
 .about h3 {
@@ -293,7 +293,7 @@ span.glyphicon.glyphicon-earphone.phone {
 /** SERVICES **/
 .services {
     background-color: #032f43;
-    padding: 75px 0;
+    padding: 25px 0;
     text-align: center;
 }
 .services h3 {
