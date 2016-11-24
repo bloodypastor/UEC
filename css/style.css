@@ -53,12 +53,12 @@ img {
 /** RESET CODE **/
 
 /** HEADER **/
-.top-bar {
-    padding: 15px 0;
-    background-color: #edf1e6;
+.topbar {
+    padding: 7px 0;
+    background: #b2aaa8;
 }
 header {
-    
+    position: fixed;
     width: 100%;
     z-index: 1;
 }
@@ -170,6 +170,8 @@ span.glyphicon.glyphicon-earphone.phone {
 
 /** BANNER **/
 .banner {
+    position: relative;
+    top: 135px;
     background:url("../img/23.jpg");
     background-size: cover;
     min-height: 740px;
