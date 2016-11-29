@@ -305,6 +305,7 @@ span.glyphicon.glyphicon-earphone.phone {
 .services h6 {
     font-size: 15px;
     color: #f3f6f3;
+    text-align: center;
     font-weight: 300;
     width: 40%;
     margin: 0 auto;
@@ -498,7 +499,7 @@ span.glyphicon.glyphicon-earphone.phone {
 /*-- //Map--*/
 
 footer {
-    height: 200px;
+    height: 242px;
     background: #8c8c8c;
 }
 .copyright p {
@@ -788,6 +789,12 @@ footer {
         .aimg:after {
             left: 51%;
         }
+        .mail {
+            width: 46%;
+        }
+        .social-icon-top ul li a {
+            width: 33px;
+        }
     }
     @media (max-width: 768px) {
         .top-bar {
@@ -917,7 +924,7 @@ footer {
         }
 
         .about {
-            padding: 40px 0px;
+
         }
 
         .about h6 {
@@ -1200,7 +1207,7 @@ footer {
         }
 
         .banner h3 {
-            font-size: 30px;
+            font-size: 23px;
             letter-spacing: 5px;
         }
 
@@ -1291,6 +1298,16 @@ footer {
         }
     }
     @media (max-width: 414px) {
+        .social-icon-top ul li a {
+            width: 30px;
+        }
+        .mail {
+            width: 50%;
+        }
+        .banner h1 {
+            font-size: 23px;
+            margin-bottom: 30px;
+        }
         .about h3 {
             font-size: 25px;
         }
@@ -1331,6 +1348,9 @@ footer {
 
         .events h3 {
             font-size: 25px;
+        }
+        .copyright p {
+            text-align: center;
         }
     }
     @media (max-width: 384px) {
