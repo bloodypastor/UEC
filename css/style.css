@@ -55,7 +55,7 @@ img {
 /** HEADER **/
 .topbar {
     padding: 7px 0;
-    background: #b2aaa8;
+    background: #bed2b0;
 }
 header {
     position: fixed;
@@ -70,13 +70,18 @@ header {
     width: 50%;
     float: left;
     text-align: left;
-    margin-top: 6px;
+    margin-top: -2px;
 }
 .logo a h3 {
-    text-align: left;
+    margin-top: -35px;
+    margin-left: 1rem;
+    text-align: center;
     color: #000;
-    font-size: 44px;
-    margin-left: 13px;
+    font-size: 21px;
+}
+.logo-img img {
+    width: 9%;
+    margin-left: 14px;
 }
 .header-right {
     width: 50%;
@@ -171,10 +176,10 @@ span.glyphicon.glyphicon-earphone.phone {
 /** BANNER **/
 .banner {
     position: relative;
-    top: 135px;
-    background:url("../img/23.jpg");
+    top: 134px;
+    background:url("../img/lep.jpg");
     background-size: cover;
-    min-height: 740px;
+    min-height: 770px;
     text-align: center;
 }
 .banner h1 {
