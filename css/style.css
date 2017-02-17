@@ -4,7 +4,7 @@ body {
     padding: 0;
     margin: 0;
     background: #FFF;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Mukta Vaani', sans-serif;
 }
 body a {
     transition: 0.5s all;
@@ -31,7 +31,7 @@ h1, h2, h3, h4, h5, h6 {
     margin: 0;
     padding: 0;
     text-align: center;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Mukta Vaani', sans-serif;
 }
 p {
     margin:0;
@@ -88,6 +88,9 @@ header {
     float: right;
     text-align: right;
 }
+.contacts {
+    margin-top: -15px;
+}
 .mail {
     width: 60%;
     float: left;
@@ -95,6 +98,17 @@ header {
 }
 .mail ul li {
     display: inline-block;
+    text-align: left;
+}
+.skype {
+    margin-right: 71px;
+}
+.viber {
+    width: 4%;
+    margin-right: 0;
+}
+.vibtel {
+    margin-right: 14px;
 }
 span.glyphicon.glyphicon-earphone.phone {
     color: #7bc475;
@@ -242,6 +256,7 @@ span.glyphicon.glyphicon-earphone.phone {
 }
 .about h6 {
     font-size: 15px;
+    text-align: center;
     color: #000;
     font-weight: 300;
     width: 55%;
