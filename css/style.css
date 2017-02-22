@@ -234,12 +234,20 @@ span.glyphicon.glyphicon-earphone.phone {
 }
 .modal-body {
     padding: 0 25px 40px 30px;
-    background:url("../img/23.jpg") no-repeat ;
+    background:url("../img/") no-repeat ;
     background-size: cover;
+    font-family: 'Ubuntu', sans-serif;
 }
 .modal-body p {
     font-size: 14px;
     line-height: 30px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.modal-dialog {
+    width: 60%;
+}
+.about-us {
+    color: red;
 }
 /** END BANNER **/
 
