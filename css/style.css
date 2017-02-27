@@ -537,9 +537,29 @@ footer {
     height: 242px;
     background: #8c8c8c;
 }
-.copyright p {
-    text-align: right;
+.footer {
+    margin-top: -50px;
+}
+.adress {
+    margin-top: 10px;
+}
+.adress h4 {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 24px;
+    margin-bottom: 10px
+}
+.contact-grid1 h6 {
+    text-align: left;
+    font-size: 15px;
+}
+.contact-grid1 h4 {
     margin-top: 40px;
+    font-size: 22px;
+}
+.copyright p {
+    text-align: center;
+    margin-top: 0;
+    font-size: 21px;
 }
 .contact-grid1 h4, h6 {
     text-align: left;
@@ -548,11 +568,10 @@ footer {
     margin-top: 40px;
 }
 .social-icon-bottom {
-    margin: 0 auto;
     text-align: center;
     width: 100%;
-    float: left;
-    margin-top: 35px;
+    float: right;
+    margin-top: -3px;
 }
 .social-icon-bottom ul li {
     display: inline-block;
