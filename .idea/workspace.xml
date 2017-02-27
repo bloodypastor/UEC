@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b64e853-1015-4511-b7f1-f091f444af4b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/t2.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/a1.png" afterPath="$PROJECT_DIR$/img/a1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/a2.png" afterPath="$PROJECT_DIR$/img/a2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/a3.png" afterPath="$PROJECT_DIR$/img/a3.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
@@ -34,8 +30,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="244" column="32" selection-start-line="244" selection-start-column="32" selection-end-line="244" selection-end-column="32" />
+            <state relative-caret-position="269">
+              <caret line="299" column="41" selection-start-line="299" selection-start-column="41" selection-end-line="299" selection-end-column="41" />
               <folding>
                 <element signature="e#3671#3678#0" expanded="true" />
                 <element signature="n#style#0;n#iframe#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -47,8 +43,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-850">
-              <caret line="241" column="17" selection-start-line="241" selection-start-column="17" selection-end-line="241" selection-end-column="17" />
+            <state relative-caret-position="374">
+              <caret line="253" column="19" selection-start-line="253" selection-start-column="19" selection-end-line="253" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -69,7 +65,7 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Templates/uec/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
+            <state relative-caret-position="5321">
               <caret line="313" column="23" selection-start-line="313" selection-start-column="23" selection-end-line="313" selection-end-column="23" />
               <folding />
             </state>
@@ -172,6 +168,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -220,7 +217,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -310,12 +306,14 @@
       <workItem from="1485340999843" duration="190000" />
       <workItem from="1486630743650" duration="9954000" />
       <workItem from="1487316772056" duration="6821000" />
-      <workItem from="1487746700525" duration="7422000" />
+      <workItem from="1487746700525" duration="8773000" />
+      <workItem from="1487920387995" duration="597000" />
+      <workItem from="1488181867217" duration="3006000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77201000" />
+    <option name="totallyTimeSpent" value="82155000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="2" width="1388" height="825" extended-state="0" />
@@ -745,7 +743,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="248">
           <caret line="6739" column="25" selection-start-line="6739" selection-start-column="25" selection-end-line="6739" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -785,26 +782,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/../Templates/uec/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-850">
-          <caret line="241" column="17" selection-start-line="241" selection-start-column="17" selection-end-line="241" selection-end-column="17" />
+        <state relative-caret-position="5321">
+          <caret line="313" column="23" selection-start-line="313" selection-start-column="23" selection-end-line="313" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Templates/uec/css/style.css">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="313" column="23" selection-start-line="313" selection-start-column="23" selection-end-line="313" selection-end-column="23" />
+        <state relative-caret-position="374">
+          <caret line="253" column="19" selection-start-line="253" selection-start-column="19" selection-end-line="253" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="244" column="32" selection-start-line="244" selection-start-column="32" selection-end-line="244" selection-end-column="32" />
+        <state relative-caret-position="269">
+          <caret line="299" column="41" selection-start-line="299" selection-start-column="41" selection-end-line="299" selection-end-column="41" />
           <folding>
             <element signature="e#3671#3678#0" expanded="true" />
             <element signature="n#style#0;n#iframe#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />

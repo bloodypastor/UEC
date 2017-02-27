@@ -226,15 +226,16 @@ span.glyphicon.glyphicon-earphone.phone {
 }
 .modal-header {
     border: none;
-    background: hsla(27, 5%, 33%, 0.27);
-}
-.modal-header {
+    background: #525a5a;
     font-size: 20px;
+    font-family: 'Ubuntu', sans-serif;
+    color: #eeeeee;
     text-align: center;
 }
 .modal-body {
     padding: 0 25px 40px 30px;
-    background:url("../img/") no-repeat ;
+    background-color: #ffd586;
+    /*background:url("../img/") no-repeat ;*/
     background-size: cover;
     font-family: 'Ubuntu', sans-serif;
 }
@@ -247,7 +248,10 @@ span.glyphicon.glyphicon-earphone.phone {
     width: 60%;
 }
 .about-us {
-    color: red;
+    font-weight: bold;
+}
+.close {
+    color: #eeeeee;
 }
 /** END BANNER **/
 
@@ -519,8 +523,11 @@ span.glyphicon.glyphicon-earphone.phone {
 }
 /*-- // Events --*/
 /*--Map --*/
+.map  {
+    width: 50%;
+}
 .map iframe {
-    width: 100%;
+    width: 50%;
     height: 500px;
     border: 5px solid #FAFAFA;
 }
