@@ -645,13 +645,21 @@ footer {
         margin-left: 60px;
     }
     .logo a h3 {
-        margin-top: 15px;
+        margin-top: -40px;
+        margin-left: 120px;
         display: inline-block;
-        text-align: right;
-
+        text-align: center;
+    }
+    .logo-img {
+        margin-top: 16px;
     }
     .contacts {
-        margin-top: -45px;
+        margin-top: 4px;
+    }
+    .mail {
+        width: 65%;
+        float: left;
+        margin-top: 3px;
     }
     .navbar-default .navbar-nav > li > a {
         padding: 16px 42px;
@@ -659,6 +667,25 @@ footer {
     .social-icon-top {
         width: 34%;
         float: left;
-        margin-top: -25px;
+        margin-top: 10px;
+    }
+    .header-right {
+        width: 49%;
+        float: right;
+        text-align: right;
+    }
+    .aimg:after {
+        height: 76%;
+        bottom: -133px;
+        left: 51%;
+    }
+    .service-grids {
+        margin-top: 56px;
+    }
+    .service-grids-icon {
+        width: 39%;
+    }
+    .social-icon-bottom {
+        margin-top: -10px;
     }
 }
