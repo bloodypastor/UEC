@@ -55,7 +55,7 @@ img {
 /** HEADER **/
 .topbar {
     padding: 7px 0;
-    background: #bed2b0;
+    background: #d1dcc9;
 }
 header {
     position: fixed;
@@ -197,7 +197,7 @@ span.glyphicon.glyphicon-earphone.phone {
 /** BANNER **/
 .banner {
     position: relative;
-    top: 134px;
+    top: 130px;
     background:url("../img/lep.jpg");
     background-size: cover;
     min-height: 770px;
@@ -334,6 +334,9 @@ span.glyphicon.glyphicon-earphone.phone {
     background-color: #032f43;
     padding: 25px 0;
     text-align: center;
+}
+.services p a {
+    color: #7BC475;
 }
 .services h3 {
     font-size: 35px;
@@ -531,24 +534,33 @@ span.glyphicon.glyphicon-earphone.phone {
 /*-- // Events --*/
 /*--Map --*/
 .map  {
-    width: 50%;
+    float: right;
+    width: 620px;
+    margin-top: 75px;
+    margin-right: 66px;
 }
-.map iframe {
-    width: 50%;
-    height: 500px;
-    border: 5px solid #FAFAFA;
-}
+
 /*-- //Map--*/
 
-footer {
-    height: 242px;
-    background: #8c8c8c;
+/*CONTACTS*/
+.mail-bottom {
+    width: 60%;
+    float: left;
+    margin-top: 17px;
 }
-.footer {
-    margin-top: -50px;
+.mail-bottom ul li {
+    display: inline-block;
+    text-align: left;
+}
+hr {
+    width: 275px;
+    margin-left: 0;
+    margin-top: 15px;
+    margin-bottom: 39px;
+    border: 1px solid #222;
 }
 .adress {
-    margin-top: 10px;
+    margin-top: 100px;
 }
 .adress h4 {
     font-family: 'Ubuntu', sans-serif;
@@ -558,6 +570,7 @@ footer {
 .contact-grid1 h6 {
     text-align: left;
     font-size: 15px;
+    margin-bottom: 9px;
 }
 .contact-grid1 h4 {
     margin-top: 40px;
@@ -566,19 +579,29 @@ footer {
 .copyright p {
     text-align: center;
     margin-top: 0;
-    font-size: 21px;
+    font-size: 19px;
 }
 .contact-grid1 h4, h6 {
     text-align: left;
 }
 .contact-grid1 h4 {
     margin-top: 40px;
+    font-size: 28px;
 }
+
+footer {
+    height: 100px;
+    background: #d1dcc9;
+}
+.footer {
+    margin-top: -50px;
+}
+
 .social-icon-bottom {
     text-align: center;
     width: 100%;
     float: right;
-    margin-top: -3px;
+    margin-top: 53px;
 }
 .social-icon-bottom ul li {
     display: inline-block;
@@ -655,6 +678,7 @@ footer {
     }
     .contacts {
         margin-top: 4px;
+        font-weight: bold;;
     }
     .mail {
         width: 65%;
@@ -686,6 +710,79 @@ footer {
         width: 39%;
     }
     .social-icon-bottom {
-        margin-top: -10px;
+        margin-top: 56px;
     }
+    .adress {
+        margin-top: 40px;
+    }
+    .mail-bottom {
+        margin-top: 0;
+    }
+    hr {
+        margin-bottom: 0;
+    }
+    .map {
+        width: 559px;
+        margin-top: 31px;
+        margin-right: 65px;
+    }
+}
+
+@media (max-width : 768px) {
+    .logo-img img {
+        width: 33px;
+    }
+    .logo a h3 {
+        font-size: 20px;
+    }
+    .navbar-default .navbar-nav > li > a {
+        padding: 15px 25px;
+    }
+    .aimg:after {
+        width: 0;
+    }
+    .services h3 {
+        font-size: 30px;
+    }
+    .services p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .team {
+        padding: 91px 0
+    }
+    .contact-grid1 h4 {
+        font-size: 20px;
+    }
+    hr {
+        width: 198px;
+    }
+    .contacts ul {
+        font-size: 9px;
+        font-weight: bold;
+    }
+    .services h6 {
+        width: 55%;
+        margin-bottom: -15px;
+        line-height: 26px;
+    }
+    .about-grid2 {
+        margin: 0 0 75px 290px;
+    }
+    .service-grids-icon {
+        padding: 12px;
+        border: 2px solid #7bc475;
+    }
+    .contact-grid1 h6 {
+        font-size: 11px;
+    }
+    .map {
+        width: 490px;
+        margin-top: 9px;
+        margin-right: 227px;
+    }
+    .viber {
+        width: 6%;
+    }
+
 }
