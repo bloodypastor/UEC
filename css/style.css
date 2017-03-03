@@ -868,15 +868,15 @@ footer {
         margin-left: 0;
     }
     .logo a h3 {
-        font-size: 17px;
-        margin-left: 11px;
+        font-size: 19px;
+        margin-left: 1px;
     }
     .contacts {
         margin-top: 7px;
         font-weight: normal;
     }
     .mail {
-        width: 100%;
+        width: 105%;
         float: right;
         margin-top: 7px;
         margin-right: 69px;
