@@ -786,3 +786,152 @@ footer {
     }
 
 }
+
+@media (max-width : 480px) {
+    .logo-img img {
+        margin-left: 0;
+    }
+    .logo a h3 {
+        font-size: 22px;
+        margin-left: 11px;
+    }
+    .contacts {
+        margin-top: 7px;
+        font-weight: normal;
+    }
+    .mail {
+        width: 100%;
+        float: right;
+        margin-top: 7px;
+        margin-right: 69px;
+        font-size: 10px;
+    }
+
+    .mail ul li {
+        margin-left: 6px;
+    }
+    .skype {
+        margin-right: 51px;
+    }
+    .viber {
+        width: 5%;
+    }
+    .vibtel {
+        margin-right: -7px;
+        width: 47%;
+    }
+    .social-icon-top {
+        width: 53%;
+        float: right;
+        margin-top: -46px;
+    }
+    .social-icon-top ul li {
+        margin-right: -15px;
+        display: inline-block;
+    }
+    .navbar-default .navbar-toggle {
+        margin-right: 44%;
+    }
+    .navbar-default .navbar-nav > li > a {
+        text-align: center;
+    }
+    .navbar-default .navbar-collapse, .navbar-default .navbar-form {
+        border-color: transparent;
+    }
+    .navbar-collapse.collapse {
+        margin-left: 0%;
+        margin-top: 54px;
+    }
+    .navbar-nav {
+        margin: 7px -21px;
+    }
+    .banner h1 {
+        font-size: 27px;
+        padding-bottom: 20px;
+    }
+    .banner h3 {
+        font-size: 23px;
+    }
+
+
+
+    .about-grid2 {
+        margin: 0 0 75px 194px;
+    }
+    .carousel-caption {
+        bottom: 7px;
+    }
+}
+
+@media (max-width : 412px) {
+    .logo-img img {
+        margin-left: 0;
+    }
+    .logo a h3 {
+        font-size: 17px;
+        margin-left: 11px;
+    }
+    .contacts {
+        margin-top: 7px;
+        font-weight: normal;
+    }
+    .mail {
+        width: 100%;
+        float: right;
+        margin-top: 7px;
+        margin-right: 69px;
+        font-size: 10px;
+    }
+
+    .mail ul li {
+        margin-left: 6px;
+    }
+    .skype {
+        margin-right: 51px;
+    }
+    .vibtel {
+        margin-right: 8px;
+        width: 47%;
+    }
+    .social-icon-top {
+        width: 53%;
+        float: right;
+        margin-top: -46px;
+    }
+    .social-icon-top ul li {
+        margin-right: -15px;
+        display: inline-block;
+    }
+    .navbar-default .navbar-toggle {
+        margin-right: 44%;
+    }
+    .navbar-default .navbar-nav > li > a {
+        text-align: center;
+    }
+    .navbar-default .navbar-collapse, .navbar-default .navbar-form {
+        border-color: transparent;
+    }
+    .navbar-collapse.collapse {
+        margin-left: 0%;
+        margin-top: 54px;
+    }
+    .navbar-nav {
+        margin: 7px -21px;
+    }
+    .banner h1 {
+        font-size: 24px;
+        padding-bottom: 15px;
+    }
+    .banner h3 {
+        font-size: 21px;
+    }
+
+
+    .about-grid2 {
+        margin: 0 0 75px 194px;
+    }
+    .carousel-caption {
+        bottom: 7px;
+    }
+}
+
