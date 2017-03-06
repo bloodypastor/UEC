@@ -73,6 +73,7 @@ header {
      text-align: left;
      margin-top: -2px;
 }
+
 .logo a h3 {
     display: inline-block;
     margin-top: 15px;
@@ -864,22 +865,25 @@ footer {
 }
 
 @media (max-width : 412px) {
+    .logo-img {
+        visibility: hidden;
+    }
     .logo-img img {
         margin-left: 0;
     }
     .logo a h3 {
         font-size: 19px;
-        margin-left: 1px;
+        margin-right: 60px;
     }
     .contacts {
         margin-top: 7px;
         font-weight: normal;
     }
     .mail {
-        width: 105%;
+        width: 96%;
         float: right;
         margin-top: 7px;
-        margin-right: 69px;
+        margin-right: 90px;
         font-size: 10px;
     }
 
