@@ -99,6 +99,9 @@ header {
     float: left;
     margin-top: 17px;
 }
+.fa-skype, .fa-envelope-o {
+    margin-right: 6px;
+}
 .mail ul li {
     display: inline-block;
     text-align: left;
@@ -107,11 +110,11 @@ header {
     margin-right: 71px;
 }
 .viber {
-    width: 4%;
-    margin-right: 0;
+    width: 8%;
+    margin-right: 4px;
 }
 .vibtel {
-    margin-right: 14px;
+    margin-right: 2px;
 }
 span.glyphicon.glyphicon-earphone.phone {
     color: #7bc475;
@@ -815,7 +818,8 @@ footer {
         margin-right: 51px;
     }
     .viber {
-        width: 5%;
+        margin-left: -16px;
+        width: 11%;
     }
     .vibtel {
         margin-right: -7px;
@@ -864,7 +868,7 @@ footer {
     }
 }
 
-/*@media (max-width : 412px) {
+@media (max-width : 412px) {
     .logo-img {
         visibility: hidden;
     }
@@ -892,6 +896,10 @@ footer {
     }
     .skype {
         margin-right: 51px;
+    }
+    .viber {
+        margin-left: -14px;
+        width: 11%;
     }
     .vibtel {
         margin-right: 8px;
@@ -937,5 +945,23 @@ footer {
     .carousel-caption {
         bottom: 7px;
     }
-}*/
+}
+
+@media (max-width : 360px) {
+    .logo a h3 {
+        font-size: 16px;
+        margin-right: 55px;
+    }
+    .mail {
+        font-size: 8px;
+        margin-right: 76px;
+    }
+     li {
+        margin-right: 11px;
+    }
+    .viber {
+        margin-left: -16px;
+        width: 11%;
+    }
+}
 
