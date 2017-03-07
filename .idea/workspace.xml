@@ -30,7 +30,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="400" column="81" selection-start-line="400" selection-start-column="81" selection-end-line="400" selection-end-column="81" />
+              <caret line="400" column="76" selection-start-line="400" selection-start-column="76" selection-end-line="400" selection-end-column="76" />
               <folding>
                 <element signature="e#3696#3703#0" expanded="true" />
                 <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -42,8 +42,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="976" column="16" selection-start-line="976" selection-start-column="16" selection-end-line="976" selection-end-column="16" />
+            <state relative-caret-position="578">
+              <caret line="983" column="21" selection-start-line="983" selection-start-column="21" selection-end-line="983" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -312,12 +312,12 @@
       <workItem from="1488358395559" duration="10248000" />
       <workItem from="1488530651055" duration="10554000" />
       <workItem from="1488788638087" duration="6324000" />
-      <workItem from="1488878484302" duration="3758000" />
+      <workItem from="1488878484302" duration="5386000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="129725000" />
+    <option name="totallyTimeSpent" value="131353000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="2" width="1388" height="825" extended-state="0" />
@@ -797,7 +797,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="400" column="81" selection-start-line="400" selection-start-column="81" selection-end-line="400" selection-end-column="81" />
+          <caret line="400" column="76" selection-start-line="400" selection-start-column="76" selection-end-line="400" selection-end-column="76" />
           <folding>
             <element signature="e#3696#3703#0" expanded="true" />
             <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -807,8 +807,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="976" column="16" selection-start-line="976" selection-start-column="16" selection-end-line="976" selection-end-column="16" />
+        <state relative-caret-position="578">
+          <caret line="983" column="21" selection-start-line="983" selection-start-column="21" selection-end-line="983" selection-end-column="21" />
           <folding />
         </state>
       </provider>

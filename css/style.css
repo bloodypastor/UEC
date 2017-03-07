@@ -554,6 +554,10 @@ span.glyphicon.glyphicon-earphone.phone {
     display: inline-block;
     text-align: left;
 }
+.mail-bottom img {
+    width: 9%;
+    margin-right: 3px;
+}
 hr {
     width: 275px;
     margin-left: 0;
@@ -954,6 +958,10 @@ footer {
         font-size: 8px;
         margin-right: 76px;
     }
+    .mail-bottom img {
+        width: 9%;
+        margin-right: 2px;
+    }
      li {
         margin-right: 11px;
     }
@@ -971,10 +979,10 @@ footer {
         top: 116px;
         min-height: 500px;
     }
-
-
-    .vibtel img {
-        width: 9%;
+    .modal-dialog {
+        margin: 0 auto;
+        width: 290px;
     }
+
 }
 
