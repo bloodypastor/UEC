@@ -109,7 +109,7 @@ header {
 }
 .viber {
     width: 8%;
-    margin-right: 4px;
+    margin-right: 6px;
 }
 .vibtel {
     margin-right: 2px;
@@ -202,11 +202,11 @@ span.glyphicon.glyphicon-earphone.phone {
     top: 130px;
     background:url("../img/lep.jpg");
     background-size: cover;
-    min-height: 770px;
+    min-height: 840px;
     text-align: center;
 }
 .banner h1 {
-    padding-top: 220px;
+    padding-top: 150px;
     color: #74ff69;
     font-size: 40px;
     letter-spacing: 3px;
@@ -963,6 +963,18 @@ footer {
     }
     .button {
         text-align: center;
+    }
+    .banner h1 {
+        padding-top: 70px;
+    }
+    .banner {
+        top: 116px;
+        min-height: 500px;
+    }
+
+
+    .vibtel img {
+        width: 9%;
     }
 }
 
