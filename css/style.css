@@ -975,6 +975,9 @@ footer {
     .banner h1 {
         padding-top: 70px;
     }
+    .banner h3 {
+        font-size: 18px;
+    }
     .banner {
         top: 116px;
         min-height: 500px;
@@ -982,6 +985,67 @@ footer {
     .modal-dialog {
         margin: 0 auto;
         width: 290px;
+    }
+    .about {
+        padding: 140px 0;
+        margin-top: 50px;
+        margin-bottom: -80px;
+    }
+    .about h3 {
+        font-size: 24px;
+        padding-bottom: 11px;
+    }
+    .about h6 {
+        font-size: 18px;
+        line-height: 26px;
+        text-align: center;
+    }
+    .about-grid1, .about-grid3 {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .about-grid1 h4,.about-grid2 h4,.about-grid3 h4 {
+        text-align: center;
+    }
+    .about-grid2 {
+        margin: -50px auto 90px;
+        width: 100%;
+        text-align: center;
+    }
+    .about-grids p {
+        border: 1px solid #222;
+    }
+    .aboutimage {
+        border: none;
+        margin: 21px;
+    }
+    .aboutimage img {
+        width: 3%;
+    }
+    .aboutimage {
+        visibility: hidden;
+    }
+    .services h3 {
+        font-size: 25px;
+        margin-top: 20px;
+    }
+    .services h6 {
+        width: 100%;
+        margin-bottom: 10px;
+        line-height: 29px;
+        font-size: 16px;
+    }
+    .service-grids-icon {
+        padding: 16px;
+        border: 2px solid #7bc475;
+        width: 22%;
+    }
+    .service-grid1, .service-grid2, .service-grid3 {
+        margin-bottom: 40px;
+    }
+    .service-grid4 {
+        margin-bottom: 22px;
     }
 
 }
