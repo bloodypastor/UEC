@@ -74,28 +74,28 @@ header {
 
 .logo a h3 {
     display: inline-block;
-    margin-top: 15px;
-    margin-left: 20px;
+    margin-top: 17px;
+    margin-left: 70px;
     color: #000;
     font-size: 28px;
 }
 .logo-img img {
+    margin-top: 10px;
     float: left;
     width: 9%;
     margin-left: 14px;
 }
 .header-right {
-    width: 50%;
     float: right;
     text-align: right;
 }
 .contacts {
-    margin-top: -63px;
+    margin-top: 0;
 }
 .mail {
-    width: 60%;
+    font-size: 11px;
     float: left;
-    margin-top: 17px;
+    margin-top: 5px;
 }
 .fa-skype, .fa-envelope-o {
     margin-right: 6px;
@@ -120,8 +120,7 @@ span.glyphicon.glyphicon-earphone.phone {
     top: 4px;
 }
 .social-icon-top {
-    margin-top: -40px;
-    width: 30%;
+    margin-top: 5px;
     float: left;
 }
 .social-icon-top ul li {
@@ -167,7 +166,7 @@ span.glyphicon.glyphicon-earphone.phone {
     margin: 0;
 }
 .navbar-collapse.collapse {
-    margin-left: 6%;
+    margin-left: 5%;
 }
 .navbar-right {
     float: none!important;
@@ -199,7 +198,7 @@ span.glyphicon.glyphicon-earphone.phone {
 /** BANNER **/
 .banner {
     position: relative;
-    top: 130px;
+    top: 125px;
     background:url("../img/lep.jpg");
     background-size: cover;
     min-height: 840px;
@@ -558,7 +557,7 @@ span.glyphicon.glyphicon-earphone.phone {
     width: 9%;
     margin-right: 3px;
 }
-hr {
+.adress hr {
     width: 275px;
     margin-left: 0;
     margin-top: 15px;
