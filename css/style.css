@@ -104,6 +104,9 @@ header {
     display: inline-block;
     text-align: left;
 }
+.email {
+    margin-right: 16px;
+}
 .skype {
     margin-right: 71px;
 }
@@ -112,7 +115,7 @@ header {
     margin-right: 6px;
 }
 .vibtel {
-    margin-right: 2px;
+    margin-right: 12px;
 }
 span.glyphicon.glyphicon-earphone.phone {
     color: #7bc475;
@@ -198,7 +201,7 @@ span.glyphicon.glyphicon-earphone.phone {
 /** BANNER **/
 .banner {
     position: relative;
-    top: 125px;
+    top: 117px;
     background:url("../img/lep.jpg");
     background-size: cover;
     min-height: 840px;
@@ -220,16 +223,17 @@ span.glyphicon.glyphicon-earphone.phone {
 .banner a {
     color: #fff;
     border: 3px solid #fff;
-    padding: 10px 50px 10px 20px;
+    border-radius: 7px;
+    padding: 19px 82px 12px 30px;
     display: inline-block;
-    margin-top: 50px;
-    background:url("../img/arrow.png") no-repeat 151px 7px;
-    background-size: 15%;
+    margin-top: 120px;
+    background:url("../img/arrow.png") no-repeat 170px 13px;
+    background-size: 13%;
 }
 .banner a:hover {
     color: #74ff69;
     border: 3px solid #74ff69;
-    background:url("../img/carrow.png") no-repeat 151px 7px;
+    background:url("../img/carrow.png") no-repeat 170px 13px;
     background-size: 15%
 }
 .modal-header {
@@ -583,8 +587,8 @@ span.glyphicon.glyphicon-earphone.phone {
 }
 .copyright p {
     text-align: center;
-    margin-top: 0;
-    font-size: 19px;
+    margin-top: 16px;
+    font-size: 14px;
 }
 .contact-grid1 h4, h6 {
     text-align: left;
@@ -673,8 +677,9 @@ footer {
         margin-left: 60px;
     }
     .logo a h3 {
-        margin-top: -40px;
-        margin-left: 120px;
+        margin-top: 7px;
+        margin-bottom: 5px;
+        margin-left: 5px;
         display: inline-block;
         text-align: center;
     }
@@ -682,8 +687,7 @@ footer {
         margin-top: 16px;
     }
     .contacts {
-        margin-top: 4px;
-        font-weight: bold;;
+        margin-top: 6px;
     }
     .mail {
         width: 65%;
@@ -696,7 +700,7 @@ footer {
     .social-icon-top {
         width: 34%;
         float: left;
-        margin-top: 10px;
+        margin-top: 3px;
     }
     .header-right {
         width: 49%;
@@ -738,10 +742,13 @@ footer {
         width: 33px;
     }
     .logo a h3 {
-        font-size: 20px;
+        font-size: 23px;
     }
     .navbar-default .navbar-nav > li > a {
         padding: 15px 25px;
+    }
+    .banner {
+        top: 109px;
     }
     .aimg:after {
         width: 0;
@@ -816,15 +823,13 @@ footer {
         margin-left: 6px;
     }
     .skype {
-        margin-right: 51px;
-    }
-    .viber {
-        margin-left: -16px;
-        width: 11%;
+        margin-right: 66px;
     }
     .vibtel {
-        margin-right: -7px;
-        width: 47%;
+        margin-right: 10px;
+    }
+    .vibtel img {
+        width: 8%;
     }
     .social-icon-top {
         width: 53%;
@@ -851,6 +856,9 @@ footer {
     .navbar-nav {
         margin: 7px -21px;
     }
+    .button {
+        text-align: center;
+    }
     .banner h1 {
         font-size: 27px;
         padding-bottom: 20px;
@@ -864,6 +872,32 @@ footer {
     .carousel-caption {
         bottom: 7px;
     }
+    .service-grids-icon {
+        padding: 13px;
+        width: 15%;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .services h6 {
+        width: 100%;
+        margin-top: 8px;
+    }
+    .contact {
+        margin-top: 1px;
+    }
+    .social-icon-bottom {
+        margin-top: 10px;
+    }
+    .footer {
+        margin: 0;
+    }
+    footer {
+        height: 105px;
+    }
+    .copyright p {
+        font-size: 14px;
+    }
+
 }
 
 @media (max-width : 412px) {
@@ -952,6 +986,8 @@ footer {
     .logo a h3 {
         font-size: 16px;
         margin-right: 55px;
+        margin-top: 10px;
+        margin-bottom: 5px;
     }
     .mail {
         font-size: 8px;
@@ -964,6 +1000,12 @@ footer {
      li {
         margin-right: 11px;
     }
+     .skype {
+         margin-right: 56px;
+     }
+     .vibtel {
+         margin-right: 14px;
+     }
     .viber {
         margin-left: -16px;
         width: 11%;
@@ -978,7 +1020,7 @@ footer {
         font-size: 18px;
     }
     .banner {
-        top: 116px;
+        top: 113px;
         min-height: 500px;
     }
     .modal-dialog {
@@ -1045,6 +1087,9 @@ footer {
     }
     .service-grid4 {
         margin-bottom: 22px;
+    }
+    .team-grid1, .team-grid2 {
+        margin-bottom: 20px;
     }
 
 }
