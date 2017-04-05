@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b64e853-1015-4511-b7f1-f091f444af4b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/t1.jpg" afterPath="$PROJECT_DIR$/img/t1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/t3.jpg" afterPath="$PROJECT_DIR$/img/t3.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
@@ -32,10 +30,10 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="252" column="52" selection-start-line="252" selection-start-column="52" selection-end-line="252" selection-end-column="52" />
+            <state relative-caret-position="306">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding>
-                <element signature="e#4026#4033#0" expanded="true" />
+                <element signature="e#4165#4172#0" expanded="true" />
                 <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
@@ -45,8 +43,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8643">
-              <caret line="559" column="12" selection-start-line="559" selection-start-column="12" selection-end-line="559" selection-end-column="12" />
+            <state relative-caret-position="205">
+              <caret line="872" column="17" selection-start-line="872" selection-start-column="17" selection-end-line="872" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -55,8 +53,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Templates/uec/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1309">
-              <caret line="77" column="96" selection-start-line="77" selection-start-column="20" selection-end-line="77" selection-end-column="96" />
+            <state relative-caret-position="221">
+              <caret line="13" column="78" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="78" />
               <folding>
                 <element signature="e#4242#4249#0" expanded="true" />
               </folding>
@@ -169,6 +167,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -231,7 +230,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -341,15 +339,16 @@
       <workItem from="1490347896367" duration="1969000" />
       <workItem from="1490614685330" duration="1637000" />
       <workItem from="1490691420047" duration="4666000" />
-      <workItem from="1490771879017" duration="6588000" />
+      <workItem from="1490771879017" duration="6722000" />
+      <workItem from="1491376375445" duration="3070000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="164706000" />
+    <option name="totallyTimeSpent" value="167910000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-45" y="7" width="1372" height="812" extended-state="1" />
+    <frame x="-45" y="7" width="1372" height="812" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12143928" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -407,7 +406,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#4026#4033#0" expanded="true" />
+            <element signature="e#4165#4172#0" expanded="true" />
             <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -460,7 +459,7 @@
         <state relative-caret-position="2346">
           <caret line="138" column="0" selection-start-line="138" selection-start-column="0" selection-end-line="138" selection-end-column="0" />
           <folding>
-            <element signature="e#4026#4033#0" expanded="true" />
+            <element signature="e#4165#4172#0" expanded="true" />
             <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -513,7 +512,7 @@
         <state relative-caret-position="6341">
           <caret line="373" column="10" selection-start-line="373" selection-start-column="10" selection-end-line="373" selection-end-column="10" />
           <folding>
-            <element signature="e#4026#4033#0" expanded="true" />
+            <element signature="e#4165#4172#0" expanded="true" />
             <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -566,7 +565,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#4026#4033#0" expanded="true" />
+            <element signature="e#4165#4172#0" expanded="true" />
             <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -587,7 +586,7 @@
         <state relative-caret-position="6256">
           <caret line="368" column="61" selection-start-line="368" selection-start-column="61" selection-end-line="368" selection-end-column="61" />
           <folding>
-            <element signature="e#4026#4033#0" expanded="true" />
+            <element signature="e#4165#4172#0" expanded="true" />
             <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -632,7 +631,7 @@
         <state relative-caret-position="4182">
           <caret line="246" column="41" selection-start-line="246" selection-start-column="41" selection-end-line="246" selection-end-column="41" />
           <folding>
-            <element signature="e#4026#4033#0" expanded="true" />
+            <element signature="e#4165#4172#0" expanded="true" />
             <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -677,7 +676,7 @@
         <state relative-caret-position="3604">
           <caret line="212" column="42" selection-start-line="212" selection-start-column="42" selection-end-line="212" selection-end-column="42" />
           <folding>
-            <element signature="e#4026#4033#0" expanded="true" />
+            <element signature="e#4165#4172#0" expanded="true" />
             <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -722,7 +721,7 @@
         <state relative-caret-position="1411">
           <caret line="83" column="28" selection-start-line="83" selection-start-column="28" selection-end-line="83" selection-end-column="28" />
           <folding>
-            <element signature="e#4026#4033#0" expanded="true" />
+            <element signature="e#4165#4172#0" expanded="true" />
             <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -758,16 +757,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="248">
           <caret line="6739" column="25" selection-start-line="6739" selection-start-column="25" selection-end-line="6739" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Templates/uec/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1309">
-          <caret line="77" column="96" selection-start-line="77" selection-start-column="20" selection-end-line="77" selection-end-column="96" />
-          <folding>
-            <element signature="e#4242#4249#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -817,18 +806,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8643">
-          <caret line="559" column="12" selection-start-line="559" selection-start-column="12" selection-end-line="559" selection-end-column="12" />
+        <state relative-caret-position="205">
+          <caret line="872" column="17" selection-start-line="872" selection-start-column="17" selection-end-line="872" selection-end-column="17" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Templates/uec/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="78" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="78" />
+          <folding>
+            <element signature="e#4242#4249#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="252" column="52" selection-start-line="252" selection-start-column="52" selection-end-line="252" selection-end-column="52" />
+        <state relative-caret-position="306">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding>
-            <element signature="e#4026#4033#0" expanded="true" />
+            <element signature="e#4165#4172#0" expanded="true" />
             <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>

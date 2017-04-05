@@ -224,10 +224,11 @@ span.glyphicon.glyphicon-earphone.phone {
     color: #fff;
     border: 3px solid #fff;
     border-radius: 7px;
-    padding: 19px 82px 12px 30px;
+    padding: 16px 60px 12px 32px;
     display: inline-block;
     margin-top: 120px;
-    background:url("../img/arrow.png") no-repeat 170px 13px;
+    font-size: 17px;
+    background:url("../img/arrow.png") no-repeat 183px 13px;
     background-size: 13%;
 }
 .banner a:hover {
@@ -478,12 +479,15 @@ span.glyphicon.glyphicon-earphone.phone {
 .person h5{
     color:#fff;
     margin:15px 0px;
-    font-size:16px;
+    font-size: 20px;
 }
 .person h6{
     color:#eee;
     font-size:14px;
     font-weight:100;
+}
+.carousel-caption p {
+    font-size: 24px;
 }
 /*--// Testimonials --*/
 
@@ -865,8 +869,8 @@ footer {
         bottom: 7px;
     }
     .service-grids-icon {
-        padding: 13px;
-        width: 15%;
+        padding: 11px;
+        width: 17%;
         margin-top: 20px;
         margin-bottom: 20px;
     }
@@ -964,10 +968,12 @@ footer {
     .banner h3 {
         font-size: 21px;
     }
-
-
+    .modal-dialog {
+        margin-left: 57px;
+        width: 300px;
+    }
     .about-grid2 {
-        margin: 0 0 75px 194px;
+        margin: 0 0 75px 160px;
     }
     .carousel-caption {
         bottom: 7px;
