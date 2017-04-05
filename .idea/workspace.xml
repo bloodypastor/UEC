@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3b64e853-1015-4511-b7f1-f091f444af4b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="UEC.iws" />
@@ -30,8 +29,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="4692">
+              <caret line="291" column="101" selection-start-line="291" selection-start-column="101" selection-end-line="291" selection-end-column="101" />
               <folding>
                 <element signature="e#4165#4172#0" expanded="true" />
                 <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -137,8 +136,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-45" />
-    <option name="y" value="7" />
+    <option name="x" value="4" />
+    <option name="y" value="15" />
     <option name="width" value="1372" />
     <option name="height" value="812" />
   </component>
@@ -234,7 +233,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../thebrowbar.ua" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../grids" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
@@ -340,15 +339,15 @@
       <workItem from="1490614685330" duration="1637000" />
       <workItem from="1490691420047" duration="4666000" />
       <workItem from="1490771879017" duration="6722000" />
-      <workItem from="1491376375445" duration="3070000" />
+      <workItem from="1491376375445" duration="6295000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="167910000" />
+    <option name="totallyTimeSpent" value="171135000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-45" y="7" width="1372" height="812" extended-state="0" />
+    <frame x="4" y="15" width="1372" height="812" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12143928" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -824,8 +823,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="4692">
+          <caret line="291" column="101" selection-start-line="291" selection-start-column="101" selection-end-line="291" selection-end-column="101" />
           <folding>
             <element signature="e#4165#4172#0" expanded="true" />
             <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
